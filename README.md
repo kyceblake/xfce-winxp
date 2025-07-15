@@ -1,7 +1,9 @@
 # xfce-winxp
 
 **Work in Progress**
-Most stuff is gonna be written in Tauri and React because there are too much work and I'm alone 
+
+Most stuff is gonna be written in Tauri and React because there are too much work and I'm alone
+
 ---
 
 ### 🧱 Stack
