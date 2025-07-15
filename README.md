@@ -11,5 +11,7 @@
 - **Settings GUI:** `winxp-settings`
 - **Taskbar (with notifications):** `winxp-taskbar`
 - **Task Manager:** `winxp-taskmgr`
-- **Explorer:** `winxp-explorer`
+- **Explorer (also as Control Panel):** `winxp-explorer`
 - **Terminal:** `xfce4-terminal`
+- **Sound control** `winxp-sndvol`
+- **Polkit** `winxp-polkit`
