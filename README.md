@@ -15,3 +15,4 @@
 - **Terminal:** `xfce4-terminal`
 - **Sound control** `winxp-sndvol`
 - **Polkit** `winxp-polkit`
+- **Greeter** `mshernandez5/WelcomeXP` 
