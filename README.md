@@ -5,7 +5,6 @@
 ---
 
 ### 🧱 Stack
-
 - **Window Manager:** `xfwm4`
 - **Desktop (icons, wallpaper):** `xfdesktop`
 - **Settings GUI:** `winxp-settings`
@@ -15,4 +14,8 @@
 - **Terminal:** `xfce4-terminal`
 - **Sound control** `winxp-sndvol`
 - **Polkit** `winxp-polkit`
-- **Greeter** `mshernandez5/WelcomeXP` 
+- **Greeter** `mshernandez5/WelcomeXP`
+- **Soundpack** `Sounds`
+- **Fonts** `Fonts`
+- **Icons** `Icons`
+- **Plymouth** `Plymouth`
