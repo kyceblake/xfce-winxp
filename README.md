@@ -15,7 +15,8 @@ Most stuff is gonna be written in Tauri and React because there are too much wor
 - **Explorer (also as Control Panel):** `winxp-explorer`
 - **Terminal:** `xfce4-terminal`
 - **Sound control** `winxp-sndvol`
-- **Music player** ``
+- **Music/Video player** ``
+- **Image viewer** ``
 - **Editor** `winxp-notepad`
 - **Polkit** `winxp-polkit`
 - **Greeter** `mshernandez5/WelcomeXP`
